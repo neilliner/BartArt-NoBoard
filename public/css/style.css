@@ -1,0 +1,19 @@
+@font-face { 
+	font-family: Futura-Medium-Condensed; 
+	src: url(//localhost:3000/FuturaStd-Condensed.otf); 
+} 
+@font-face{
+	font-family: Futura-light-Condensed; 
+	src: url(//localhost:3000/FuturaStd-CondensedLight.otf); 
+}
+body{
+	font-family: Futura-Medium-Condensed;
+    margin: 0px auto;
+    background: #000;
+}
+body::-webkit-scrollbar { 
+    display: none; 
+}
+canvas{
+    display:block;
+}

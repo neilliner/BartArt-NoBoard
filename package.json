@@ -1,0 +1,17 @@
+{
+  "name": "BartArt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyoros Vephula",
+  "license": "ISC",
+  "dependencies": {
+    "bart": "0.0.3",
+    "express": "^4.13.3",
+    "serialport": "^2.0.5",
+    "socket.io": "^1.3.7"
+  }
+}
